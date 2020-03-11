@@ -6,5 +6,5 @@ We decided to create a website with two main parts.
    - The second part is our project blog, where we added a summary of our meetings, since October. 
    
    
-![GitHub Logo](/public/images/pattern.jpg)
+![GitHub Logo](/public/images/app-screen-1400.png)
  
